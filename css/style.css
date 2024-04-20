@@ -2559,8 +2559,8 @@ blockquote cite:before {
 
 @media (max-width: 789px) {
     .founder .team-content {
-        width: 460px;
-        height: 300px;
+        width: 340px;
+        height: 430px;
         line-height: 4rem;
     }
 }
